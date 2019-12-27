@@ -35,7 +35,7 @@
 
 {
     'name': 'Aeroo Reports',
-    'version': '1.2.1',
+    'version': '8.0.1.2.1',
     'category': 'Generic Modules/Aeroo Reports',
     'summary': 'Enterprise grade reporting solution',
     'description': """
